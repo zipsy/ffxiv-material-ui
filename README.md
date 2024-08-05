@@ -48,7 +48,7 @@ For more information, check out the discord server [here](https://discord.gg/T5s
 
 
 ## INSTALL GUIDE
-First, please refer to a separate [GUIDE page](https://github.com/skotlex/ffxiv-material-ui?tab=readme-ov-file#install-guide)\
+First, please refer to a separate [GUIDE page](https://github.com/skotlex/ffxiv-material-ui/blob/master/INSTALL-GUIDE.md)\
 **Installation methods include `TexTools` and `Penumbra`, and I recommend TexTools since Penumbra UI mods tend to crash Dalamud.**
 
 After installing the main pack, install the pack fixes after it.
