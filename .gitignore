@@ -1,3 +1,6 @@
 **/*.zip
 **/HD resolution/
 **/4K resolution/Discord/
+**/.github
+**/.gitignore
+**./.git/

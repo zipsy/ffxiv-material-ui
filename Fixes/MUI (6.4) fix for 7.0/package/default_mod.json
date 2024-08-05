@@ -1,0 +1,25 @@
+﻿{
+  "Version": 0,
+  "Files": {
+    "ui/icon/062000/062042_hr1.tex": "default group\\ui\\icon\\062000\\062042_hr1.tex",
+    "ui/icon/062000/062043_hr1.tex": "default group\\ui\\icon\\062000\\062043_hr1.tex",
+    "ui/icon/062000/062141_hr1.tex": "default group\\ui\\icon\\062000\\062141_hr1.tex",
+    "ui/icon/062000/062142_hr1.tex": "default group\\ui\\icon\\062000\\062142_hr1.tex",
+    "ui/icon/062000/062143_hr1.tex": "default group\\ui\\icon\\062000\\062143_hr1.tex",
+    "ui/icon/062000/062144_hr1.tex": "default group\\ui\\icon\\062000\\062144_hr1.tex",
+    "ui/uld/areamap_hr1.tex": "default group\\ui\\uld\\areamap_hr1.tex",
+    "ui/uld/character_hr1.tex": "default group\\ui\\uld\\character_hr1.tex",
+    "ui/uld/contentsfinder_hr1.tex": "default group\\ui\\uld\\contentsfinder_hr1.tex",
+    "ui/uld/fishingnotebook_hr1.tex": "default group\\ui\\uld\\fishingnotebook_hr1.tex",
+    "ui/uld/icona_frame_hr1.tex": "default group\\ui\\uld\\icona_frame_hr1.tex",
+    "ui/uld/itemdetail_hr1.tex": "default group\\ui\\uld\\itemdetail_hr1.tex",
+    "ui/uld/jobhudmnk0_hr1.tex": "default group\\ui\\uld\\jobhudmnk0_hr1.tex",
+    "ui/uld/jobhudnin1_hr1.tex": "default group\\ui\\uld\\jobhudnin1_hr1.tex",
+    "ui/uld/jobhudsmn1_hr1.tex": "default group\\ui\\uld\\jobhudsmn1_hr1.tex",
+    "ui/uld/mycinfo_hr1.tex": "default group\\ui\\uld\\mycinfo_hr1.tex",
+    "ui/uld/teleport_hr1.tex": "default group\\ui\\uld\\teleport_hr1.tex",
+    "ui/uld/togglebutton_hr1.tex": "default group\\ui\\uld\\togglebutton_hr1.tex"
+  },
+  "FileSwaps": {},
+  "Manipulations": []
+}
