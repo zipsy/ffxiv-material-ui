@@ -1,7 +1,6 @@
 ﻿{
   "Version": 0,
   "Files": {
-    "ui/icon/062000/062043_hr1.tex": "default group\\ui\\icon\\062000\\062043_hr1.tex",
     "ui/icon/062000/062101_hr1.tex": "default group\\ui\\icon\\062000\\062101_hr1.tex",
     "ui/icon/062000/062102_hr1.tex": "default group\\ui\\icon\\062000\\062102_hr1.tex",
     "ui/icon/062000/062103_hr1.tex": "default group\\ui\\icon\\062000\\062103_hr1.tex",
@@ -43,9 +42,7 @@
     "ui/icon/062000/062139_hr1.tex": "default group\\ui\\icon\\062000\\062139_hr1.tex",
     "ui/icon/062000/062140_hr1.tex": "default group\\ui\\icon\\062000\\062140_hr1.tex",
     "ui/icon/062000/062141_hr1.tex": "default group\\ui\\icon\\062000\\062141_hr1.tex",
-    "ui/icon/062000/062142_hr1.tex": "default group\\ui\\icon\\062000\\062142_hr1.tex",
-    "ui/icon/062000/062143_hr1.tex": "default group\\ui\\icon\\062000\\062143_hr1.tex",
-    "ui/icon/062000/062144_hr1.tex": "default group\\ui\\icon\\062000\\062144_hr1.tex"
+    "ui/icon/062000/062142_hr1.tex": "default group\\ui\\icon\\062000\\062142_hr1.tex"
   },
   "FileSwaps": {},
   "Manipulations": []

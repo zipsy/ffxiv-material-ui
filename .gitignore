@@ -115,6 +115,7 @@ role_assignment.json
 # Others
 _config.yml
 *.zip
+*.png
 MUI/HD resolution/
 MUI/4K resolution/Discord/
 .github/
